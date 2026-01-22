@@ -2388,7 +2388,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "78c13706-cbe5-4408-9e16-2bb89cd638e8")
+			(uuid "78c13706-cbe5-4408-9e16-2bb89cd638e9")
 		)
 		(instances
 			(project ""
@@ -3527,7 +3527,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile"
 			(at 31.75 43.18 0)
 			(effects
 				(font
@@ -3625,7 +3625,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3c2e0d42-63c3-422e-aa01-ebf67acf4455")
+			(uuid "3c2e0d42-63c3-422e-aa01-ebf67acf4456")
 		)
 		(instances
 			(project ""
@@ -3692,13 +3692,13 @@
 			)
 		)
 		(pin "S"
-			(uuid "c171b09d-2efd-4909-9c58-10c2dddf7339")
+			(uuid "c171b09d-2efd-4909-9c58-10c2dddf733a")
 		)
 		(pin "R"
-			(uuid "6e2dbc36-31b0-41f6-9686-1b75552f5af6")
+			(uuid "6e2dbc36-31b0-41f6-9686-1b75552f5af7")
 		)
 		(pin "T"
-			(uuid "960ea008-6760-48d1-bfd6-1eb2054b6141")
+			(uuid "960ea008-6760-48d1-bfd6-1eb2054b6142")
 		)
 		(instances
 			(project ""
